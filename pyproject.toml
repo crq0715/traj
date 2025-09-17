@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dp-traj-bench"
+version = "0.0.1"
+description = "Benchmark for DP trajectory synthesis: methods × privacy × utility"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name="Your Name"}]
+license = {text = "MIT"}
+dependencies = []
+
+[project.urls]
+homepage = "https://example.com"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["dp_traj_bench*"]

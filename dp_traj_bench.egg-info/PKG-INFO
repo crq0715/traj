@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: dp-traj-bench
+Version: 0.0.1
+Summary: Benchmark for DP trajectory synthesis: methods × privacy × utility
+Author: Your Name
+License: MIT
+Project-URL: homepage, https://example.com
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown

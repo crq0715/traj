@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+pyproj
+shapely
+POT
+pyyaml
+matplotlib
+rich
+mlflow
